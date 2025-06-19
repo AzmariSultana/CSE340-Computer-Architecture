@@ -2,9 +2,10 @@
 
 A systematic study of the various elements in computer design, including circuit design, storage mechanisms, addressing schemes, and various approaches to parallelism and distributed logic. Information representation and transfer; instruction and data access methods; the control unit; hardware and microprogrammed; memory organization; RISC and CISC machines.
 
+# Drive link
+https://drive.google.com/drive/folders/1J-8qeUIJLCz7t63TJjDmL6PQClyNkjTg
 
 # Redowanul Akbar(RDW)
-
 Chapter 1: https://youtu.be/NtOA__i4kq0?si=BEFthPpw2E7YSJRS
 
 # Partha Bhoumik(PBK)
