@@ -6,7 +6,7 @@ A systematic study of the various elements in computer design, including circuit
 https://drive.google.com/drive/folders/1J-8qeUIJLCz7t63TJjDmL6PQClyNkjTg
 
 # Redowanul Akbar(RDW)
-Chapter 1: https://youtu.be/NtOA__i4kq0?si=BEFthPpw2E7YSJRS
+Chapter 1: https://youtube.com/playlist?list=PLncSj9rkV80-cn2YojB84Fsxqa13579y7&si=Ovhqp1KwR6CMBljF
 
 # Partha Bhoumik(PBK)
 Chapter 1: https://youtube.com/playlist?list=PLKyFAP_ydM14yhCG3g7F1USsIQuQkRUFm&si=-xefA7-FS_yDG87o
