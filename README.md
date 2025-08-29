@@ -16,3 +16,5 @@ Chapter 2: https://youtube.com/playlist?list=PLKyFAP_ydM15Rvaw9HBNF4WOrtAtt8M-w&
 Chapter 3: https://youtube.com/playlist?list=PLKyFAP_ydM14ALrCiu617O4bKvlWiGOqj&si=EiQeMPxw1mjEr3Iv
 
 Chapter 4: https://youtube.com/playlist?list=PLKyFAP_ydM17VPOp58yPMBTWkG8__Kwg7&si=ANkuZNgpUbqEpLr3
+
+Chapter 5: https://www.youtube.com/watch?v=rZYS_SbCwmI&list=PLKyFAP_ydM145s06fjTtGoQjZovvZ40LJ
